@@ -2,8 +2,7 @@
 Scrobble shoutcast radio 
 
 ## Configuration file
-Path to config ~/.lastfm_scrobbler/lastfm.json
-It contains something like this:
+Path to config ~/.lastfm_scrobbler/lastfm.json. It contains something like this:
 ```json
 {
 	"api_key" : apikey,
@@ -15,5 +14,4 @@ It contains something like this:
 ```
 
 ## Run
-python lastfm_radio_scrobble.py name="radio_url:
-Press button Scrobble
+python lastfm_radio_scrobble.py name="radio_url". Press button Scrobble.
