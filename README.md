@@ -5,11 +5,11 @@ Scrobble shoutcast radio
 Path to config ~/.lastfm_scrobbler/lastfm.json. It contains something like this:
 ```json
 {
-	"api_key" : apikey,
-	"user_name": username,
-	"app_name": app_name,
-	"shared_secret": api_secret,
-	"password": password_md5_hash
+	"api_key" : "apikey",
+	"user_name": "username",
+	"app_name": "app_name",
+	"shared_secret": "api_secret",
+	"password": "password_md5_hash"
 }
 ```
 
