@@ -15,5 +15,5 @@ It contains something like this:
 ```
 
 ## Run
-python lastfm_radio_scrobble.py name=<radio_url>
+python lastfm_radio_scrobble.py name="radio_url:
 Press button Scrobble
